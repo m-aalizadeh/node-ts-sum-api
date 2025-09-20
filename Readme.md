@@ -22,7 +22,7 @@ A robust, production-ready REST API built with Node.js, TypeScript, and Express 
 ### Installation
 
 ```bash
-git clone <repo-url>
+git clone git@github.com:m-aalizadeh/node-ts-sum-api.git
 cd node-ts-sum-api
 npm install
 ```
