@@ -115,7 +115,3 @@ Create a `.env` file in the root for local development if needed.
 - `npm run build` - Compile TypeScript to JavaScript
 - `npm start` - Run the compiled app
 - `npm run clean` - Remove build output
-
-## License
-
-ISC
